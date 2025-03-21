@@ -1,0 +1,6 @@
+ db:
+    user:kzm
+    pwd: 123
+    pool-size:5
+    time-out:20000
+    url:jdbc:postgresql://localhost:5432/companies
